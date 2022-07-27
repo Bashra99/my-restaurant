@@ -9,3 +9,6 @@ we at crabelo  serve 3 type of food  crab sandwich and fried chicken burger and 
 #### **price** : 4.99$
 3. **_crab salad_** ![crab salad](./photo/c2.jpg)
 #### **price** : 7.99$
+
+## wireframe 
+![Wireframe](./photo/wireframe.png)
