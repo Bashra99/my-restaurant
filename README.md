@@ -1,6 +1,6 @@
 # my-restaurant
-##      **crabelo**
-we at crabelo  serve 3 type of food  crab sandwich and fried chicken burger and crab salad specialize in crab sandwich
+##      **Crabelo**
+we at Crabelo  serve 3 type of food  crab sandwich and fried chicken burger and crab salad specialize in crab sandwich
 ### menu:
 1. **_crab sandwich_** ![crab sandwich](./photo/c1.webp)
 #### **price** : 5.99$ 
@@ -10,5 +10,8 @@ we at crabelo  serve 3 type of food  crab sandwich and fried chicken burger and 
 3. **_crab salad_** ![crab salad](./photo/c2.jpg)
 #### **price** : 7.99$
 
+
 ## wireframe 
 ![Wireframe](./photo/wireframe.png)
+
+##### **Thank you for visit Crabelo**
