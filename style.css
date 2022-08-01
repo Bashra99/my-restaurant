@@ -1,0 +1,27 @@
+body{
+    background-color:#bdebd9;
+    
+    
+
+    
+}
+.bord-1{
+    border: 1px solid ;
+    font-size:large;
+}
+.bord-2{
+    font-size:x-large;
+    
+}
+.fo{
+    font-size: large;
+
+    gap: 50px;
+    padding: 30px;
+
+
+}
+.link{
+    display:inline;
+    
+}
