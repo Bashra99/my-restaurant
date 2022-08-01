@@ -1,6 +1,9 @@
 body{
     background-color:#bdebd9;
     
+    
+
+    
 }
 .bord-1{
     border: 1px solid ;
@@ -12,4 +15,13 @@ body{
 }
 .fo{
     font-size: large;
+
+    gap: 50px;
+    padding: 30px;
+
+
+}
+.link{
+    display:inline;
+    
 }
